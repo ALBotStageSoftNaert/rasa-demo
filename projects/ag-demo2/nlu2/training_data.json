@@ -1,0 +1,29 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "get_time",
+        "text": "Hoe laat is het?"
+      },
+      {
+        "intent": "get_time",
+        "text": "Heb je het uur?"
+      },
+      {
+        "intent": "get_time",
+        "text": "Ken je het uur?"
+      },
+      {
+        "intent": "get_time",
+        "text": "Weet je hoe laat het is?"
+      },
+      {
+        "intent": "get_location",
+        "text": "Waar staat het atomium?"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
