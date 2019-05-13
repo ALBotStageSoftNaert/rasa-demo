@@ -1,0 +1,321 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 16,
+            "end": 19,
+            "value": "chicken",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Ken je iets met kip?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 16,
+            "end": 19,
+            "value": "chicken",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Ken je iets met kip?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 16,
+            "end": 24,
+            "value": "chicken",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Ken je iets met kippetje?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 16,
+            "end": 24,
+            "value": "chicken",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Ken je iets met braadkip?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 23,
+            "end": 28,
+            "value": "vlees",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Heb je een gerecht met vlees?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "text": "Wat zijn de huidige recepten?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "text": "Welk gerecht raad je aan?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 13,
+            "end": 18,
+            "value": "brood",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Ik eet graag brood, heb je een gerecht hiermee?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 23,
+            "end": 26,
+            "value": "kip",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Heb je een gerecht met kip?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 21,
+            "end": 26,
+            "value": "pasta",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Ken je gerechten met pasta?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 16,
+            "end": 19,
+            "value": "chicken",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Ken je iets met kip?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 16,
+            "end": 19,
+            "value": "chicken",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Ken je iets met kip?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 16,
+            "end": 24,
+            "value": "chicken",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Ken je iets met kippetje?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 16,
+            "end": 24,
+            "value": "chicken",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Ken je iets met braadkip?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 22,
+            "end": 28,
+            "value": "varken",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Heb je een recept met varken?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 21,
+            "end": 24,
+            "value": "chicken",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Ken je gerechten met kip?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 21,
+            "end": 24,
+            "value": "chicken",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Ken je gerechten met kip?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 21,
+            "end": 29,
+            "value": "chicken",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Ken je gerechten met kippetje?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 21,
+            "end": 29,
+            "value": "chicken",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Ken je gerechten met braadkip?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 23,
+            "end": 28,
+            "value": "bread",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Heb je een gerecht met brood?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "entities": [
+          {
+            "start": 23,
+            "end": 28,
+            "value": "bread",
+            "entity": "food_type"
+          }
+        ],
+        "text": "Heb je een gerecht met brood?"
+      },
+      {
+        "intent": "Get_Recipe",
+        "text": "Wat is er lekker met brood?"
+      },
+      {
+        "intent": "Get_Language",
+        "entities": [
+          {
+            "start": 10,
+            "end": 16,
+            "value": "engels",
+            "entity": "language"
+          }
+        ],
+        "text": "spreek je engels?"
+      },
+      {
+        "intent": "Get_Language",
+        "entities": [
+          {
+            "start": 10,
+            "end": 16,
+            "value": "engels",
+            "entity": "language"
+          }
+        ],
+        "text": "spreek je engels?"
+      },
+      {
+        "intent": "Get_Language",
+        "entities": [
+          {
+            "start": 10,
+            "end": 16,
+            "value": "grieks",
+            "entity": "language"
+          }
+        ],
+        "text": "spreek je grieks?"
+      },
+      {
+        "intent": "Get_Language",
+        "entities": [
+          {
+            "start": 11,
+            "end": 17,
+            "value": "grieks",
+            "entity": "language"
+          }
+        ],
+        "text": "begrijp je grieks?"
+      },
+      {
+        "intent": "Get_Language",
+        "entities": [
+          {
+            "start": 11,
+            "end": 17,
+            "value": "grieks",
+            "entity": "language"
+          }
+        ],
+        "text": "begrijp je grieks?"
+      },
+      {
+        "intent": "Get_Language",
+        "entities": [
+          {
+            "start": 10,
+            "end": 16,
+            "value": "vlaams",
+            "entity": "language"
+          }
+        ],
+        "text": "Spreek je vlaams?"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
