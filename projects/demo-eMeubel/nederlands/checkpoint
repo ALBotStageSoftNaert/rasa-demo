@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Stagair4\\Documents\\rasa-demo\\projects/demo-eMeubel\\nederlands\\intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\Stagair4\\Documents\\rasa-demo\\projects/demo-eMeubel\\nederlands\\intent_classifier_tensorflow_embedding.ckpt"
