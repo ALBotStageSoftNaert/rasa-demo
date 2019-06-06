@@ -46,6 +46,14 @@
         "text": "hey"
       },
       {
+        "intent": "Put_Greeting",
+        "text": "heey"
+      },
+      {
+        "intent": "Put_Greeting",
+        "text": "hallo"
+      },
+      {
         "intent": "Get_Openinghours",
         "text": "Wanneer is de winkel open?"
       },
@@ -176,6 +184,14 @@
       {
         "intent": "Get_Openinghours",
         "text": "wanneer gaan jullie morgen open?"
+      },
+      {
+        "intent": "Get_Openinghours",
+        "text": "wat zijn de openingsuren?"
+      },
+      {
+        "intent": "Get_Openinghours",
+        "text": "zijn jullie morgen open?"
       },
       {
         "intent": "Get_Order_Status",
@@ -334,6 +350,70 @@
         "text": "hey, hoe gaat het met m'n bestelling van gisteren?"
       },
       {
+        "intent": "Get_Order_Status",
+        "text": "wat is de status van dit order?"
+      },
+      {
+        "intent": "Get_Order_Status",
+        "text": "wat is de status van m'n bestelling van gisteren?"
+      },
+      {
+        "intent": "Get_Order_Status",
+        "text": "wat is de status van m'n laatste bestelling?"
+      },
+      {
+        "intent": "Get_Order_Status",
+        "text": "hoe zit het met m'n bestelling van afgelopen dinsdag?"
+      },
+      {
+        "intent": "Get_Order_Status",
+        "text": "wat is de huidige status van de bestelling die m'n zoon plaatste bij jullie?"
+      },
+      {
+        "intent": "Get_Order_Status",
+        "text": "hoever staan jullie met mijne bestelling?"
+      },
+      {
+        "intent": "Get_Order_Status",
+        "text": "heb je de status?"
+      },
+      {
+        "intent": "Get_Order_Status",
+        "text": "welke status heeft m'n bestelling?"
+      },
+      {
+        "intent": "Get_Order_Status",
+        "text": "hoever staan jullie met dit order?"
+      },
+      {
+        "intent": "Get_Order_Status",
+        "text": "hey, wat is de status van m'n bestelling?"
+      },
+      {
+        "intent": "Get_Order_Status",
+        "text": "wat is de status van mijn huidige bestelling"
+      },
+      {
+        "intent": "Get_Order_Status",
+        "text": "wat is de status van mijn laatste bestelling bij jullie?"
+      },
+      {
+        "intent": "Get_Order_Status",
+        "text": "hey, hoe is het met mijn bestelling?"
+      },
+      {
+        "intent": "Get_Order_Status",
+        "text": "wat is de status van mijn bestelling"
+      },
+      {
+        "intent": "Get_Order_Status",
+        "text": "zijn mijn stoelen al op voorraad?"
+      },
+      {
+        "intent": "Get_Order_Status",
+        "text": "is mijn bestelling al binnen?"
+      },
+      {
         "intent": "Yes",
         "text": "Ja"
       },
@@ -446,6 +526,10 @@
         "text": "nee, dankjewel"
       },
       {
+        "intent": "No",
+        "text": "neen"
+      },
+      {
         "intent": "Get_Help",
         "text": "Ik begrijp dit niet"
       },
@@ -520,6 +604,10 @@
       {
         "intent": "Get_Help",
         "text": "wat kun je me vertellen?"
+      },
+      {
+        "intent": "Get_Help",
+        "text": "help me even"
       },
       {
         "intent": "Get_Delivery",
@@ -758,104 +846,104 @@
         "text": "leveren jullie m'n bestelling nog deze week?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "Wat zit er in m'n order?"
+        "intent": "Get_Delivery",
+        "text": "is da nu nog niet binnen?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "Wat wordt er geleverd?"
+        "intent": "Get_Delivery",
+        "text": "wanneer leveren jullie ookal weer?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "Heb je de inhoud van m'n order?"
+        "intent": "Get_Delivery",
+        "text": "wanneer leveren jullie bij mij?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "Wat is mijn bestelling?"
+        "intent": "Get_Delivery",
+        "text": "wanneer kom je m'n order leveren?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "Wat zit er in mijn bestelling?"
+        "intent": "Get_Delivery",
+        "text": "wanneer kun je leveren?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "Wat heb ik ookal weer besteld?"
+        "intent": "Get_Delivery",
+        "text": "Wanneer komen jullie m'n bestelling leveren?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "wat heb ik ookal weer besteld, da's zo dom e een mens besteld zoveel dat je het al snel eens vergeet"
+        "intent": "Get_Delivery",
+        "text": "hey, kan je me vertellen wanneer jullie komen leveren?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "wat heb ik ookal weer besteld, da's zo dom e, een mens besteld zoveel dat je het al snel eens vergeet"
+        "intent": "Get_Delivery",
+        "text": "hey wanneer komen jullie leveren?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "wat hebben ze besteld? ze willen het niet zeggen, ze gingen iets kopen voor in mijne living maar kheb geen gedacht wat. T'is just te hopen dat ze geen grote zetel ofzo gekocht hebben want dat past hier niet binnen ze"
+        "intent": "Get_Delivery",
+        "text": "wanneer komen jullie nu potverdikke dat kasteke brengen? "
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "Ze willen niet zeggen wat ze zijn komen halen bij jullie, weet jij het misschien? :) "
+        "intent": "Get_Delivery",
+        "text": "hey wanneer komen jullie het kastje brengen dat ik 2 weken terug bestelde ?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "Weet jij wat ze zijn komen bestellen bij jullie?"
+        "intent": "Get_Delivery",
+        "text": "waneer komen jullie leveren?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "Wat zijn ze komen bestellen?"
+        "intent": "Get_Delivery",
+        "text": "wanneer komt mark langs?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "Wat zijn ze komen bestellen bij jullie?"
+        "intent": "Get_Delivery",
+        "text": "ik moet nog naar de kapper morgen, weet je misschien al wanneer je komt leveren?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "wat zijn ze komen bestellen bij jullie?"
+        "intent": "Get_Delivery",
+        "text": "wanneer kom je met m'n boekenrek?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "wat zijn ze komen bestellen?"
+        "intent": "Get_Delivery",
+        "text": "wanneer kom je m'n stoelen brengen?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "wat zijn ze komen bestellen bij jullie?"
+        "intent": "Get_Delivery",
+        "text": "wnr komt ge levere?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "euhm wat kan je vertellen?"
+        "intent": "Get_Delivery",
+        "text": "hey, wanneer komen jullie leveren?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "wat zit er ookalweer in?"
+        "intent": "Get_Delivery",
+        "text": "wanneer zal er geleverd worden?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "ik heb iets besteld bij jullie maar ik ben vergeten wat"
+        "intent": "Get_Delivery",
+        "text": "leveren jullie ook de zaterdag?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "wat zit er in mijn bestelling?"
+        "intent": "Get_Delivery",
+        "text": "leveren"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "Wat zit er ookal weer in m'n bestelling, jhon is het gaan halen maar hij zei niet wat hij meenam."
+        "intent": "Get_Delivery",
+        "text": "kan mijn aankoop al geleverd worden?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "wat is mn order?"
+        "intent": "Get_Delivery",
+        "text": "kan deze al geleverd worden?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "wat is m'n order"
+        "intent": "Get_Delivery",
+        "text": "Wanneer kom je af om te leveren?"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "wat zit er in m'n order?"
+        "intent": "Get_Delivery",
+        "text": "wanneer kom je leveren"
       },
       {
-        "intent": "Get_Order_Detail",
-        "text": "Ik ben vergeten wat ik heb besteld"
+        "intent": "Get_Delivery",
+        "text": "wanneer levert ge"
       },
       {
         "intent": "Quit",
@@ -954,6 +1042,34 @@
         "text": "niets momenteel"
       },
       {
+        "intent": "Quit",
+        "text": "niets dankje"
+      },
+      {
+        "intent": "Quit",
+        "text": "niets, je bent erg vriendelijk bedankt."
+      },
+      {
+        "intent": "Quit",
+        "text": "niks"
+      },
+      {
+        "intent": "Quit",
+        "text": "niets meer"
+      },
+      {
+        "intent": "Quit",
+        "text": "niets dankjewel!"
+      },
+      {
+        "intent": "Quit",
+        "text": "niets, dankue"
+      },
+      {
+        "intent": "Quit",
+        "text": "niets :) "
+      },
+      {
         "intent": "Get_Location",
         "text": "waar zijn jullie ookal weer gelegen?"
       },
@@ -1048,6 +1164,46 @@
       {
         "intent": "Get_Orders",
         "text": "heb ik nog bestellingen bij deze zaak?"
+      },
+      {
+        "intent": "Get_Orders",
+        "text": "hoe is het met m'n andere bestellingen?"
+      },
+      {
+        "intent": "Get_Orders",
+        "text": "Ik had nog meer bestellingen bij jullie zeker?"
+      },
+      {
+        "intent": "Get_Orders",
+        "text": "heb ik nog orders bij jullie liggen momenteel?"
+      },
+      {
+        "intent": "Get_Orders",
+        "text": "heb ik nog bestellingen bij jullie momenteel?"
+      },
+      {
+        "intent": "Get_Orders",
+        "text": "heb ik nog meer bestellingen?"
+      },
+      {
+        "intent": "Get_Orders",
+        "text": "heb ik nog meer bestellingen bij jullie momenteel?"
+      },
+      {
+        "intent": "Get_Orders",
+        "text": "heb ik nog orders staan bij jullie?"
+      },
+      {
+        "intent": "Get_Orders",
+        "text": "heb ik nog andere lopende bestellingen"
+      },
+      {
+        "intent": "Get_Orders",
+        "text": "en mijn ander order?"
+      },
+      {
+        "intent": "Get_Orders",
+        "text": "heb ik nog andere orders?"
       }
     ],
     "regex_features": [],
